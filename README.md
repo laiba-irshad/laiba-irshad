@@ -24,13 +24,6 @@ Nexus
 
 📫 Contact
 
-laibairshad3007@gmail.com
-www.linkedin.com/in/laiba-irsha9b317431bd
+Email = laibairshad3007@gmail.com
+linkedin = www.linkedin.com/in/laiba-irsha9b317431bd
 
-
-
-
-
-
-LinkedIn
-Email
