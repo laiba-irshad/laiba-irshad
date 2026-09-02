@@ -92,7 +92,7 @@ Contributed to a Full Stack project by implementing assigned features, backend i
 📧 Email: laibairshad3007@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/laiba-irsha9b317431bd-/
+https://www.linkedin.com/in/laibairshad-
 
 🐙 GitHub:
 https://github.com/laiba-irshad
